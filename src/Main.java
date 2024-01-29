@@ -8,7 +8,7 @@ class Main
         frame.setSize(400,400);
 
         Panel panel = new Panel();
-        panel.setBackground(Color.PINK);
+        panel.setBackground(Color.BLUE);
        panel.setLayout(new GridLayout(2,2));
 
         JLabel label = new JLabel("What animal is this?");
